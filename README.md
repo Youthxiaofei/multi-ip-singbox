@@ -14,8 +14,8 @@ A minimal GitHub-ready project for **Ubuntu 22.04** that installs `sing-box`, ge
 
 ## Default topology
 
-- Primary IP: `64.186.224.205`
-- Secondary IP: `154.26.181.3`
+- Primary IP: `00.00.00.000`
+- Secondary IP: `00.00.00.000`
 - Protocol: `Shadowsocks 2022`
 - Port assignment: random
 
